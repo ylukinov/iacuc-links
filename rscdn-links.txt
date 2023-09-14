@@ -1,8 +1,8 @@
 
 https://rswebcdn.rsapp.info/iacuc/IACUC-Aseptic-Technique-for-Animal-Surgery-Guideline-08-26-2022.pdf
-https://rswebcdn.rsapp.info/iacuc/Administrative-Review-and-Approval-3-22-19.pdf
+https://rswebcdn.rsapp.info/iacuc/Administrative-Review-and-Approval-5-26-23.pdf
 https://rswebcdn.rsapp.info/iacuc/Prolonged-Physical-Restraint-12-16-22.pdf
-
+https://rswebcdn.rsapp.info/iacuc/Monitoring-Biological-Materials-Guideline-04-28-23.pdf
 https://rswebcdn.rsapp.info/iacuc/Trio-Breeding-Guideline-12-16-22.pdf
 https://rswebcdn.rsapp.info/iacuc/Humane-Endpoints-01-27-23.pdf
 https://rswebcdn.rsapp.info/iacuc/Weight-Loss-as-an-Endpoint-Guideline-01-27-23.pdf
@@ -26,4 +26,21 @@ https://rswebcdn.rsapp.info/iacuc/Preparation-of-Biological-Injected-Substances-
 https://rswebcdn.rsapp.info/iacuc/Animal-Biosafety-Level-2-Manual-04-28-16.pdf
 https://rswebcdn.rsapp.info/iacuc/WNV-ABSL-3-Manual-Room-design-02-26-18.pdf
 https://rswebcdn.rsapp.info/iacuc/Controlled-substances-policy-final-10-23-13.pdf
+https://rswebcdn.rsapp.info/iacuc/Urethane-Chemical-Safety-Guidelines-12-17.pdf
+https://rswebcdn.rsapp.info/iacuc/Azoxymethane-Guidelines-12-17.pdf
+https://rswebcdn.rsapp.info/iacuc/BrdU-Guidelines-12.17-1.pdf
+https://rswebcdn.rsapp.info/iacuc/Diethylnitrosamine-Guidelines-12.17.pdf
+https://rswebcdn.rsapp.info/iacuc/Streptozotocin-Guidelines-12.17.pdf
+https://rswebcdn.rsapp.info/iacuc/Safe-Handling-of-LPS-Exposed-Animals-in-Research-Guidelines-04-28-16.pdf
+https://rswebcdn.rsapp.info/iacuc/Social-Housing-of-Laboratory-Animals-08-27-2021.pdf
+https://rswebcdn.rsapp.info/iacuc/Food-and-or-Water-Restriction-03-24-23.pdf
+https://rswebcdn.rsapp.info/iacuc/Approved-Animal-Housing-Areas-09-28-22.pdf
+https://rswebcdn.rsapp.info/iacuc/Animal-Transportation-Guideline-11-19-2021.pdf
+https://rswebcdn.rsapp.info/iacuc/Animal-Enrichment-Guideline-4-28-2023.pdf
+https://rswebcdn.rsapp.info/iacuc/Capture-of-Escaped-Rodent--06-24-22.pdf
+https://rswebcdn.rsapp.info/iacuc/How-to-enroll-in-the-AALAS-LL-2020.pdf
+https://rswebcdn.rsapp.info/iacuc/Transferring-Animals-Between-IACUC-Protocols-20504.pdf
+
+Guide For The Care And Use Of Laboratory Animals
+
 
